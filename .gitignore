@@ -1,0 +1,15 @@
+# Secrets
+.env
+*.env
+
+# Node stuff
+node_modules/
+npm-debug.log
+yarn-debug.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
